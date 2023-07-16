@@ -9,6 +9,6 @@ The dataset I build was actually very small, but somehow I can recall the traine
 <img src="Laopo_dataset/由比滨结衣（第一季）/团子_1 (27).png" width="400"/> <img src="Laopo_dataset/由比滨结衣/团子 (13).png" width="420"/>
 
 
-while the images one each row correspond to the same people, the trained model found it hard to correctly classify since the painting styles are totally different (well, for now, this is apparent...).
+while the images one each row correspond to the same people, the trained model found it hard to correctly classify since the painting styles are totally different (well, for now, this is obvious...).
 
 Did not manage to upload the pre-trained network due to the large file size :(
