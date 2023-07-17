@@ -1,6 +1,6 @@
 # LaopoNet
  Small CNN network on image classification.
-Just a very small and simple CNN aimed at performing image classification. Even can not be called a project, but it did mean something to me since was the first time (2018 Autumn) I tried some stuff with deep learning (To classify my 老婆 (waifu) :p
+Just a very small and simple CNN aimed at performing image classification. Even can not be called a project, but it did mean something to me since was the first time (2018 Autumn) I tried some stuff with deep learning (to classify my 老婆 (waifu) :p
 
 The dataset I build was actually very small, but somehow I can recall the trained network did perform pretty well, expect the case where the same waifu from different anime series seasons are labeled with different classes, like:
 
